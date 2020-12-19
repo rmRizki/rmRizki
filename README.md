@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/rmRizki/rmRizki/blob/master/Hi.gif" alt="Hi" height="36px" width="auto" />, I'm Rizki</h1>
+<h1 align="center">Hi <img src="https://github.com/rmRizki/rmRizki/blob/main/Hi.gif" alt="Hi" height="36px" width="auto" />, I'm Rizki</h1>
 <h3 align="center">A Software Developer From Indonesia</h3>
-<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/master/work.gif" alt="work" height="200" width="auto" /></p>
+<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/work.gif" alt="work" height="200" width="auto" /></p>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=rmrizki" alt="rmrizki" />
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://sgq.io/MKNGgmb" target="_blank"><img src="https://images.credential.net/badge/tiny/dxuoz8wc_badge.png" alt="aad badge" height="100px" width="auto"/></a>
-  <img src="https://github.com/rmRizki/rmRizki/blob/master/giphy.webp" alt="giphy" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/master/connected.gif" alt="connected" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/master/github.gif" alt="github" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/master/vscode.webp" alt="vscode" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/master/nyantocat.gif" alt="nyantocat" height="100px" width="auto" /></p> 
+  <img src="https://github.com/rmRizki/rmRizki/blob/main/giphy.webp" alt="giphy" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/main/connected.gif" alt="connected" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/main/github.gif" alt="github" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/main/vscode.webp" alt="vscode" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/main/nyantocat.gif" alt="nyantocat" height="100px" width="auto" /></p> 
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
 
@@ -32,9 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rmrizki&show_icons=true" alt="rmrizki" />
 </p>
 
-<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/master/dino.gif" alt="dino" height="200" width="auto" /> </p>
+<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/dino.gif" alt="dino" height="200" width="auto" /> </p>
 
-<h3 align="center">Connect With Me <img src="https://github.com/rmRizki/rmRizki/blob/master/Handshake.gif" alt="Handshake" height="32px" width="auto" /></h3>
+<h3 align="center">Connect With Me <img src="https://github.com/rmRizki/rmRizki/blob/main/Handshake.gif" alt="Handshake" height="32px" width="auto" /></h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/rizki-m" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizki-m" height="30" width="30" /></a>
