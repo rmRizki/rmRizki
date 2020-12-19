@@ -43,4 +43,4 @@
 <a href="https://instagram.com/rmrzki" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rzrizki" height="30" width="30" /></a>
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/rmrizki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36px" width="auto"></a> <a href='https://ko-fi.com/O4O420HK7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+<!-- <p align="center"><a href="https://www.buymeacoffee.com/rmrizki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36px" width="auto"></a> <a href='https://ko-fi.com/O4O420HK7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p> -->
