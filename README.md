@@ -20,8 +20,6 @@
 
 - 📫 You can reach me by **email : rzrizkimaulana@gmail.com, or dm me on [instagram](https://instagram.com/rmrzki)**
 
-- ⚡ Fun fact: **I like [Lofi](https://www.youtube.com/playlist?list=PLhSYjWOJuWkz32vHbEYSGXY4Kby_hb6Zj), [ASMR](https://www.youtube.com/watch?v=THpGyYNnwzs), and [Whale Sounds](https://www.youtube.com/watch?v=p-7QrQ0cbpg&list=WL&index=83&t=0s) 🐋**
-
 <p align="center">
   <a href="https://sgq.io/MKNGgmb" target="_blank"><img src="https://images.credential.net/badge/tiny/dxuoz8wc_badge.png" alt="aad badge" height="100px" width="auto"/></a>
 <img src="https://github.com/rmRizki/rmRizki/blob/main/connected.gif" alt="connected" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/main/github.gif" alt="github" height="100px" width="auto" /> <img src="https://github.com/rmRizki/rmRizki/blob/main/vscode.webp" alt="vscode" height="100px" width="auto" />
