@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rmrizki&show_icons=true" alt="rmrizki" />
 </p>
 
-<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/dino.gif" alt="dino" height="200" width="auto" /> </p>
+<!--<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/dino.gif" alt="dino" height="200" width="auto" /> </p>-->
 
 <h3 align="center">Connect With Me <img src="https://github.com/rmRizki/rmRizki/blob/main/Handshake.gif" alt="Handshake" height="32px" width="auto" /></h3>
 
