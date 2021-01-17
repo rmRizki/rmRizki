@@ -34,7 +34,7 @@
 
 <!--<p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/dino.gif" alt="dino" height="200" width="auto" /> </p>-->
 
-<h3 align="center">Connect With Me <img src="https://github.com/rmRizki/rmRizki/blob/main/Handshake.gif" alt="Handshake" height="32px" width="auto" /></h3>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/rizki-m" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizki-m" height="30" width="30" /></a>
