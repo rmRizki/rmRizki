@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/rmRizki/rmRizki/blob/main/Hi.gif" alt="Hi" height="36px" width="auto" /></h1>
 <p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/work.gif" alt="work" height="200" width="auto" /></p>
 
-<h4 align="center">👇Let's Connect👇</h4>
+<h2 align="center">👇Let's Connect👇</h2>
 <p align="center">
 <a href="https://linkedin.com/in/rizki-m" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizki-m" height="30" width="30" /></a>
 <a href="https://gitlab.com/rmrizki" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="rzrizki" height="30" width="30" /></a>
