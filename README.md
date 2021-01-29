@@ -1,11 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/rmRizki/rmRizki/blob/main/Hi.gif" alt="Hi" height="36px" width="auto" /></h1>
 <p align="center"> <img src="https://github.com/rmRizki/rmRizki/blob/main/work.gif" alt="work" height="200" width="auto" /></p>
 
+<p align="center">👇Let's Connect👇</p>
 <p align="center">
 <a href="https://linkedin.com/in/rizki-m" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizki-m" height="30" width="30" /></a>
 <a href="https://gitlab.com/rmrizki" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="rzrizki" height="30" width="30" /></a>
 <a href="https://github.com/rmrizki" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rzrizki" height="30" width="30" /></a>
 <a href="https://instagram.com/rmrzki" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rzrizki" height="30" width="30" /></a>
+<a href="https://rmrizki.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rzrizki" height="30" width="30" /></a>
 </p>
 
 <p align="center"> 
