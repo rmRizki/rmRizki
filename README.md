@@ -13,7 +13,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=rmrizki" alt="rmrizki" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/rmrizki?style=social"/> 
-<img alt="years" src="https://badges.pufler.dev/years/rmrizki"/>
+<!--<img alt="years" src="https://badges.pufler.dev/years/rmrizki"/>-->
 <img alt="repos" src="https://badges.pufler.dev/repos/rmrizki"/> 
 </p>
 
