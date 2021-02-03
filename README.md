@@ -9,6 +9,7 @@
 <a href="https://rmrizki.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 <a href="mailto:rzrizkimaulana@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<p align="center"><a href="https://www.buymeacoffee.com/rmrizki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36px" width="auto"></p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=rmrizki" alt="rmrizki" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/rmrizki?style=social"/> 
@@ -18,6 +19,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rmrizki&show_icons=true" alt="rmrizki" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sgq.io/MKNGgmb" target="_blank"><img src="https://images.credential.net/badge/tiny/dxuoz8wc_badge.png" alt="aad badge" height="164px" width="auto"/>
 </p>
-
-
-<!-- <p align="center"><a href="https://www.buymeacoffee.com/rmrizki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36px" width="auto"></a> <a href='https://ko-fi.com/O4O420HK7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p> -->
