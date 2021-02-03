@@ -16,7 +16,7 @@
 <img alt="repos" src="https://badges.pufler.dev/repos/rmrizki"/> 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmrizki&show_icons=true" alt="rmrizki" />             <a href="https://sgq.io/MKNGgmb" target="_blank"><img src="https://images.credential.net/badge/tiny/dxuoz8wc_badge.png" alt="aad badge" height="100px" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rmrizki&show_icons=true" alt="rmrizki" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sgq.io/MKNGgmb" target="_blank"><img src="https://images.credential.net/badge/tiny/dxuoz8wc_badge.png" alt="aad badge" height="164px" width="auto"/>
 </p>
 
 
